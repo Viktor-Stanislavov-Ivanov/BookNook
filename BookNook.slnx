@@ -8,6 +8,6 @@
   </Folder>
   <Folder Name="/Web/">
     <Project Path="Web/BookNook.Web.ViewModels/BookNook.Web.ViewModels.csproj" Id="ba36b685-81fd-46ac-a928-96166885516c" />
-    <Project Path="Web/BookNook/BookNook.Web.csproj" />
+    <Project Path="Web/BookNook.Web/BookNook.Web.csproj" />
   </Folder>
 </Solution>
