@@ -7,7 +7,7 @@
     <Project Path="Services/BookNook.Services.Data/BookNook.Services.Data.csproj" />
   </Folder>
   <Folder Name="/Web/">
-    <Project Path="Web/BookNook.csproj" />
-    <Project Path="Web/BookNook.Web.ViewModels/BookNook.Web.ViewModels.csproj" Id="9f5404cf-ae48-49b1-b235-fa75616ee70b" />
+    <Project Path="Web/BookNook.Web.ViewModels/BookNook.Web.ViewModels.csproj" Id="ba36b685-81fd-46ac-a928-96166885516c" />
+    <Project Path="Web/BookNook/BookNook.Web.csproj" />
   </Folder>
 </Solution>
