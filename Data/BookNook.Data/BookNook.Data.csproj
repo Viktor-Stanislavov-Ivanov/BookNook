@@ -11,4 +11,8 @@
     <Folder Include="Repository\Interfaces\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BookNook.Data.Models\BookNook.Data.Models.csproj" />
+  </ItemGroup>
+
 </Project>

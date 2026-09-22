@@ -10,4 +10,9 @@
     <Folder Include="Interfaces\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Data\BookNook.Data.Models\BookNook.Data.Models.csproj" />
+    <ProjectReference Include="..\..\Data\BookNook.Data\BookNook.Data.csproj" />
+  </ItemGroup>
+
 </Project>
