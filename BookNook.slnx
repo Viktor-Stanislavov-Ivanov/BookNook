@@ -1,5 +1,12 @@
 <Solution>
-  <Project Path="../BookNook.Data.Models/BookNook.Data.Models.csproj" />
-  <Project Path="../BookNook.Data/BookNook.Data.csproj" />
-  <Project Path="BookNook.csproj" />
+  <Folder Name="/Data/">
+    <Project Path="Data/BookNook.Data.Models/BookNook.Data.Models.csproj" />
+    <Project Path="Data/BookNook.Data/BookNook.Data.csproj" />
+  </Folder>
+  <Folder Name="/Services/">
+    <Project Path="Services/BookNook.Services.Data/BookNook.Services.Data.csproj" />
+  </Folder>
+  <Folder Name="/Web/">
+    <Project Path="Web/BookNook.csproj" />
+  </Folder>
 </Solution>
